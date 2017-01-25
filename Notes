@@ -1,0 +1,35 @@
+Gold Badge - Major AssessmentsOverview:
+
+To receive your Gold Badge you will need to complete the following requirements:
+
+	❏Portfolio
+		❏Landing Page
+		❏About Me
+		❏Projects Page
+			❏Store Application
+			❏JavaScript Library
+				●Library should be clonable and runnable by an instructor.
+				●Each concept will have concepts within that concept. For instance, for integers, youcould have a separate file called 0.01_integers_exponents.js. That would, of course,focuses strictly on exponents.
+			❏Ajax Application
+				●A deployed version of Friend List App
+				●This app should be altered and styled
+	❏Repl.it - Final Challenge
+		●A multiple choice assessment that will cover material learned in the first three weeks.  Items regarding HTML / CSS / JS
+	❏Gold Badge Assessment
+
+	Name: Portfolio Project
+	Start: 1/10/2017
+	Draft Due: 1//2017
+	Final Due: 1/26/2017 by EOD
+	Submission Guidelines: For Gold Badge consideration your portfolio should be deployed toGithub pages.
+
+	Overview:  We have consulted with our Industry Advisory Board and a major component for jobconsideration is that a student be able to show a list of projects that they have completed. Yourportfolio is one link that can be provided to future employers to show information about you.
+
+	Requirements:
+		●Include a landing section, an about me section, a projects section, and a contact section.
+		●Project section should include the projects listed above.
+		●Should be accessible through a single Github pages link.
+		●Links to deployed projects.
+		●Links to LinkedIn, Github, and anything else that is job relevant.
+		●All links should be functioning properly.
+		●Site should be aesthetically pleasing
